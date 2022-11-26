@@ -92,7 +92,7 @@ p {
     color: #ffffff;
 }
 /* create new class, benefits-type to clean up code */
-.benefits-type h3 {
+.benefits-type h1 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -112,11 +112,12 @@ p {
     color: #ffffff;
 }
 
+/* create new class, box to clean up code */
 .box img {
     max-height: 200px;
 }
-
-.box h2 {
+/* create new class, box to clean up code */
+.box h1 {
     margin-bottom: 20px;
     font-size: 36px;
 }
