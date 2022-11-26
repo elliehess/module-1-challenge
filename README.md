@@ -6,7 +6,9 @@ This is a webpage for a marketing agency with a codebase that follows accessibil
 
 ## Visuals
 
-![_Users_ellie_Desktop_bootcamp_challenges_module-1-challenge_Develop_index html](https://user-images.githubusercontent.com/118075347/204108849-e35d65dc-e07c-4144-aeab-48d6a7e6e237.png)
+![_Users_ellie_Desktop_bootcamp_challenges_module-1-challenge_Develop_index html](https://user-images.githubusercontent.com/118075347/204108849-e35d65dc-e07c-4144-aeab-48d6a7e6e237.png) 
+
+[Can be found here:](https://elliehess.github.io/module-1-challenge/)
 
 ## Installation
 
